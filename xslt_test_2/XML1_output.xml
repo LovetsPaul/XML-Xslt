@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flyings>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>215</flightnumber>
+         <totalflighttime>0235</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071223">Sun 23 December 2007 - 10:35</departdate>
+         <arrivedate>Sun 23 December 2007 - 13:10</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Faro</citydepartname>
+         <citydepartcode>FAO</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LGW</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$27.50</mainfare>
+         <phonefare>$37.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>13</flightnumber>
+         <totalflighttime>0240</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071218">Tue 18 December 2007 - 12:00</departdate>
+         <arrivedate>Tue 18 December 2007 - 13:40</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Malaga</citydepartname>
+         <citydepartcode>AGP</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LTN</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>847</flightnumber>
+         <totalflighttime>0230</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071218">Tue 18 December 2007 - 12:20</departdate>
+         <arrivedate>Tue 18 December 2007 - 13:50</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Alicante</citydepartname>
+         <citydepartcode>ALC</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LTN</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>253</flightnumber>
+         <totalflighttime>0225</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071218">Tue 18 December 2007 - 19:30</departdate>
+         <arrivedate>Tue 18 December 2007 - 20:55</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Alicante</citydepartname>
+         <citydepartcode>ALC</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LGW</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>13</flightnumber>
+         <totalflighttime>0240</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071219">Wed 19 December 2007 - 12:00</departdate>
+         <arrivedate>Wed 19 December 2007 - 13:40</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Malaga</citydepartname>
+         <citydepartcode>AGP</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LTN</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>847</flightnumber>
+         <totalflighttime>0230</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071219">Wed 19 December 2007 - 12:20</departdate>
+         <arrivedate>Wed 19 December 2007 - 13:50</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Alicante</citydepartname>
+         <citydepartcode>ALC</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LTN</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>13</flightnumber>
+         <totalflighttime>0240</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071220">Thu 20 December 2007 - 12:00</departdate>
+         <arrivedate>Thu 20 December 2007 - 13:40</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Malaga</citydepartname>
+         <citydepartcode>AGP</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LTN</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>265</flightnumber>
+         <totalflighttime>0230</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071220">Thu 20 December 2007 - 12:50</departdate>
+         <arrivedate>Thu 20 December 2007 - 14:20</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Alicante</citydepartname>
+         <citydepartcode>ALC</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LGW</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>835</flightnumber>
+         <totalflighttime>0230</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071220">Thu 20 December 2007 - 19:05</departdate>
+         <arrivedate>Thu 20 December 2007 - 20:35</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Alicante</citydepartname>
+         <citydepartcode>ALC</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LTN</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+   <flightitem>
+      <flightinfo>
+         <airline>ZB</airline>
+         <flightnumber>253</flightnumber>
+         <totalflighttime>0225</totalflighttime>
+      </flightinfo>
+      <flightdateinfo>
+         <departdate valDepartDate="20071220">Thu 20 December 2007 - 19:30</departdate>
+         <arrivedate>Thu 20 December 2007 - 20:55</arrivedate>
+      </flightdateinfo>
+      <citydepartinfo>
+         <citydepartname>Alicante</citydepartname>
+         <citydepartcode>ALC</citydepartcode>
+      </citydepartinfo>
+      <cityarriveinfo>
+         <cityarrivename>London</cityarrivename>
+         <cityarrivecode>LGW</cityarrivecode>
+      </cityarriveinfo>
+      <fareinfo>
+         <mainfare>$31.50</mainfare>
+         <phonefare>$41.50</phonefare>
+      </fareinfo>
+   </flightitem>
+</flyings>
